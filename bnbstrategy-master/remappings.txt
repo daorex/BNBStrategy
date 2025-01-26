@@ -1,2 +1,0 @@
-solady/=lib/solady/
-@openzeppelin/=lib/openzeppelin-contracts/
